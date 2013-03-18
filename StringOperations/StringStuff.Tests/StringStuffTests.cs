@@ -6,6 +6,9 @@ using System.Text;
 
 namespace StringOperations.Tests
 {
+    //Test Comment - prior to Git Staging 1
+
+
     [TestFixture]
     public class StringStuffTests
     {
