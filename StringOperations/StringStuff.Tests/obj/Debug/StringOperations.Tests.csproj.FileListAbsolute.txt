@@ -1,0 +1,9 @@
+C:\develop\GitExample\TedsRepository\StringOperations\StringStuff.Tests\obj\Debug\StringOperations.Tests.csprojResolveAssemblyReference.cache
+C:\develop\GitExample\TedsRepository\StringOperations\StringStuff.Tests\bin\Debug\StringStuff.Tests.dll
+C:\develop\GitExample\TedsRepository\StringOperations\StringStuff.Tests\bin\Debug\StringStuff.Tests.pdb
+C:\develop\GitExample\TedsRepository\StringOperations\StringStuff.Tests\bin\Debug\nunit.framework.dll
+C:\develop\GitExample\TedsRepository\StringOperations\StringStuff.Tests\bin\Debug\StringOperations.dll
+C:\develop\GitExample\TedsRepository\StringOperations\StringStuff.Tests\bin\Debug\nunit.framework.xml
+C:\develop\GitExample\TedsRepository\StringOperations\StringStuff.Tests\bin\Debug\StringOperations.pdb
+C:\develop\GitExample\TedsRepository\StringOperations\StringStuff.Tests\obj\Debug\StringStuff.Tests.dll
+C:\develop\GitExample\TedsRepository\StringOperations\StringStuff.Tests\obj\Debug\StringStuff.Tests.pdb
