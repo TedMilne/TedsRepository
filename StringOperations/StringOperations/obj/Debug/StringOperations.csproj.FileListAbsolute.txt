@@ -2,3 +2,4 @@ C:\develop\GitExample\TedsRepository\StringOperations\StringOperations\bin\Debug
 C:\develop\GitExample\TedsRepository\StringOperations\StringOperations\bin\Debug\StringOperations.pdb
 C:\develop\GitExample\TedsRepository\StringOperations\StringOperations\obj\Debug\StringOperations.dll
 C:\develop\GitExample\TedsRepository\StringOperations\StringOperations\obj\Debug\StringOperations.pdb
+C:\develop\GitExample\TedsRepository\StringOperations\StringOperations\obj\Debug\StringOperations.csprojResolveAssemblyReference.cache

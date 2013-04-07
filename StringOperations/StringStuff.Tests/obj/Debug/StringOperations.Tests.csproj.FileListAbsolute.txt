@@ -4,3 +4,4 @@ C:\develop\GitExample\TedsRepository\StringOperations\StringStuff.Tests\bin\Debu
 C:\develop\GitExample\TedsRepository\StringOperations\StringStuff.Tests\bin\Debug\nunit.framework.xml
 C:\develop\GitExample\TedsRepository\StringOperations\StringStuff.Tests\obj\Debug\StringStuff.Tests.dll
 C:\develop\GitExample\TedsRepository\StringOperations\StringStuff.Tests\obj\Debug\StringStuff.Tests.pdb
+C:\develop\GitExample\TedsRepository\StringOperations\StringStuff.Tests\obj\Debug\StringOperations.Tests.csprojResolveAssemblyReference.cache
