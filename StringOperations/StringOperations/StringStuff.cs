@@ -7,8 +7,6 @@ namespace StringOperations
 {
     public class StringStuff
     {
-        //addition of pointless comment so I can commit, push
-        //and test my build server
         public int StringNoSpaceCount(string stringToAnalyze_)
         {
             int counter = 0;
