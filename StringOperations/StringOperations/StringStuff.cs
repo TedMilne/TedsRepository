@@ -7,6 +7,7 @@ namespace StringOperations
 {
     public class StringStuff
     {
+        //Comment
         public int StringNoSpaceCount(string stringToAnalyze_)
         {
             int counter = 0;
